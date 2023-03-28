@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/PB_MainMenu.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/mainmenu.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/MainmenuBackground.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/button_unpress.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/button.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/button_hovered.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/health_bar.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/magic_bar.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/PB_combatUI.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/health_bar_emty.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/magic_bar_1_emty.uasset",
+				"C:/Users/13392/Documents/Game Project/ict-gameProject1-2023/gameProject1/Content/UI/Pictures/magic_bar_1.uasset"
+			]
+		}
+	]
+}
