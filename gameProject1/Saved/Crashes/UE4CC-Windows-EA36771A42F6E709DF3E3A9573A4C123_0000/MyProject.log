@@ -1,0 +1,1404 @@
+﻿Log file open, 03/27/23 23:07:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.137261
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=tomson1888 -epicuserid=319e0516b3e74296870e6ee2fa25f952 -epiclocale=zh-CN -epicsandboxid=ue
+LogInit: Base Directory: G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.27-12.37.20:978][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.27-12.37.20:978][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.27-12.37.20:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:978][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.27-12.37.20:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:978][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.27-12.37.20:978][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.27-12.37.20:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:979][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.20:996][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.27-12.37.20:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.27-12.37.20:997][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.27-12.37.20:998][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.27-12.37.20:998][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.27-12.37.20:998][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.27-12.37.20:998][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.27-12.37.20:998][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:998][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.27-12.37.20:999][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.27-12.37.21:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.27-12.37.21:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Config/Windows/Editor.ini]
+[2023.03.27-12.37.21:000][  0]LogInit: Computer: LAPTOP-86UUHP7P
+[2023.03.27-12.37.21:000][  0]LogInit: User: Lenovo
+[2023.03.27-12.37.21:000][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.03.27-12.37.21:001][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.27-12.37.21:001][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.03.27-12.37.21:001][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.27-12.37.21:001][  0]LogMemory: Process Physical Memory: 144.05 MB used, 144.05 MB peak
+[2023.03.27-12.37.21:001][  0]LogMemory: Process Virtual Memory: 112.33 MB used, 112.33 MB peak
+[2023.03.27-12.37.21:001][  0]LogMemory: Physical Memory: 6221.56 MB used,  10037.60 MB free, 16259.16 MB total
+[2023.03.27-12.37.21:001][  0]LogMemory: Virtual Memory: 134208952.00 MB used,  8774.28 MB free, 134217728.00 MB total
+[2023.03.27-12.37.21:028][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.27-12.37.21:229][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.27-12.37.21:232][  0]LogInit: Using OS detected language (zh-CN).
+[2023.03.27-12.37.21:232][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.03.27-12.37.21:236][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2023.03.27-12.37.21:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2023.03.27-12.37.21:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2023.03.27-12.37.21:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2023.03.27-12.37.21:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2023.03.27-12.37.21:420][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2023.03.27-12.37.21:420][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2023.03.27-12.37.21:420][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2023.03.27-12.37.21:420][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2023.03.27-12.37.21:420][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.03.27-12.37.21:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.03.27-12.37.21:421][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.03.27-12.37.21:493][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.27-12.37.21:644][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.27-12.37.21:681][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.27-12.37.21:681][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.27-12.37.22:211][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.27-12.37.22:302][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.27-12.37.22:302][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.27-12.37.22:302][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.27-12.37.22:302][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.27-12.37.22:467][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2023.03.27-12.37.22:467][  0]LogD3D11RHI:       4021/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.03.27-12.37.22:554][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2023.03.27-12.37.22:554][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     DeviceId    : 1c8c
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     SubSysId    : 39d017aa
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     DedicatedVideoMemory : 4216324096 bytes
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     SharedSystemMemory : 8524482560 bytes
+[2023.03.27-12.37.22:560][  0]LogD3D11RHI:     AdapterLuid : 0 100790
+[2023.03.27-12.37.22:567][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.27-12.37.22:567][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2023.03.27-12.37.22:567][  0]LogWindows: EnumDisplayDevices:
+[2023.03.27-12.37.22:568][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2023.03.27-12.37.22:570][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2023.03.27-12.37.22:573][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2023.03.27-12.37.22:575][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.03.27-12.37.22:575][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     DeviceId    : 1c8c
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     SubSysId    : 39d017aa
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     DedicatedVideoMemory : 4216324096 bytes
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     SharedSystemMemory : 8524482560 bytes
+[2023.03.27-12.37.22:575][  0]LogD3D11RHI:     AdapterLuid : 0 100790
+[2023.03.27-12.37.22:669][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.27-12.37.22:669][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.27-12.37.22:669][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.27-12.37.22:691][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.03.27-12.37.23:082][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.27-12.37.26:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.27-12.37.26:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.27-12.37.26:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.27-12.37.26:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.27-12.37.26:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.27-12.37.26:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.27-12.37.26:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.27-12.37.26:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.27-12.37.26:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.27-12.37.26:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.27-12.37.26:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.27-12.37.26:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.27-12.37.26:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.27-12.37.26:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.27-12.37.26:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.27-12.37.26:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.27-12.37.26:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.27-12.37.26:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.27-12.37.26:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.27-12.37.26:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.27-12.37.26:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.27-12.37.26:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.27-12.37.26:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.27-12.37.26:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.27-12.37.26:593][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.27-12.37.26:767][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.27-12.37.26:925][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.27-12.37.26:925][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../新建文件夹 (9)/MyProject/MyProject 4.27/Intermediate/Shaders/WorkingDirectory/16732/).
+[2023.03.27-12.37.26:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/'.
+[2023.03.27-12.37.26:927][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.27-12.37.26:927][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.27-12.37.26:927][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.27-12.37.28:064][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lenovo/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../新建文件夹 (9)/MyProject/MyProject 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../新建文件夹 (9)/MyProject/MyProject 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.27-12.37.28:136][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.27-12.37.28:159][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.27-12.37.28:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.27-12.37.28:159][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.27-12.37.28:215][  0]LogDerivedDataCache: Speed tests for C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.03.27-12.37.28:215][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=271.89MBs, RandomWriteSpeed=18.47MBs. Assigned SpeedClass 'Local'
+[2023.03.27-12.37.28:216][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.27-12.37.28:216][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.27-12.37.28:216][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.27-12.37.28:278][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.27-12.37.28:279][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.27-12.37.28:338][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2023.03.27-12.37.28:676][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.27-12.37.28:676][  0]LogInit: Active device profile: [00000230D83C4900][00000230D6E27680 49] Windows
+[2023.03.27-12.37.28:676][  0]LogInit: Profiles: [00000230D83C4900][00000230D6E27680 49] Windows, [00000230D8383800][00000230D6E2F800 49] WindowsNoEditor, [00000230D83C7500][00000230D6E33980 49] WindowsServer, [00000230D8380E00][00000230D6E37B00 49] WindowsClient, [00000230D83C7800][00000230D6E3A100 49] IOS, [00000230D8382800][00000230D6E3E280 49] iPadAir, [00000230D83C6000][00000230D6E42400 49] iPadAir2, [00000230D8330A00][00000230D6E4A6C0 49] IPadPro, [00000230D8330B00][00000230D6E46700 49] iPadAir3, [00000230D8381900][00000230D6E2A840 49] iPadAir4, [00000230D8333400][00000230D6E4E980 49] iPadMini2, [00000230D8382A00][00000230D6E52AC0 49] iPadMini3, [00000230D8331700][00000230D6E5AC40 49] iPadMini4, [00000230D83C5100][00000230D80C2DC0 49] iPadMini5, [00000230D8350300][00000230D80CB080 49] iPhone6, [00000230D8350400][00000230D80C70C0 49] iPodTouch6, [00000230D831BF00][00000230D80D3380 49] iPhone7, [00000230D831BE00][00000230D80CF3C0 49] iPodTouch7, [00000230D8382000][00000230D80D7540 49] iPhone5S, [00000230D8319A00][00000230D80DB6C0 49] iPhone6Plus, [00000230D8350200][00000230D80DF840 49] iPhone6S, [00000230D8318600][00000230D80E39C0 49] iPhone6SPlus, [00000230D8352900][00000230D80E7B40 49] iPhone7Plus, [00000230D831B100][00000230D80EA140 49] iPhoneSE, [00000230D8352200][00000230D815E2C0 49] iPhone8, [00000230D831BB00][00000230D8162440 49] iPhone8Plus, [00000230D8350A00][00000230D82145C0 49] iPhoneX, [00000230D8319400][00000230D8250740 49] iPhoneXS, [00000230D8353900][00000230CACC08C0 49] iPhoneXSMax, [00000230D8318900][00000230D6E56A00 49] iPhoneXR, [00000230D8352F00][00000230CACC4B40 49] iPhone11, [00000230D8319300][00000230CACC8C80 49] iPhone11Pro, [00000230D8351000][00000230CACCCDC0 49] iPhone11ProMax, [00000230D831AA00][00000230CACD8F40 49] iPhoneSE2, [00000230D8351400][00000230D6BB50C0 49] iPhone12Mini, [00000230D831A400][00000230D6BB9240 49] iPhone12, [00000230D8350D00][00000230D6BBD3C0 49] iPhone12Pro, [00000230D831AB00][00000230D6BC1540 49] iPhone12ProMax, [00000230D8353000][00000230D6BC56C0 49] iPadPro105, [00000230D8318700][00000230D6BC9840 49] iPadPro129, [00000230D8352800][00000230D6BCD9C0 49] iPadPro97, [00000230D831A600][00000230D6BD1B40 49] iPadPro2_129, [00000230D8353C00][00000230D6BD4140 49] iPad5, [00000230D831A200][00000230D6BD82C0 49] iPad6, [00000230D8350F00][00000230D6BDC440 49] iPad7, [00000230D831AD00][00000230D6BE05C0 49] iPad8, [00000230D8351100][00000230D6BE4740 49] iPadPro11, [00000230D8319600][00000230D6BE88C0 49] iPadPro2_11, [00000230D8353400][00000230D6C56A40 49] iPadPro3_129, [00000230D831A800][00000230CACD4B80 49] iPadPro4_129, [00000230D8353A00][00000230D6C5ACC0 49] AppleTV, [00000230D831A100][00000230D6C5EE00 49] AppleTV4K, [00000230D8351F00][00000230D6C62F40 49] TVOS, [00000230D831B400][00000230D6C6B0C0 49] Mac, [00000230D8353800][00000230D6C6F240 49] MacClient, [00000230D8319E00][00000230D6C733C0 49] MacNoEditor, [00000230D8353F00][00000230D6C77540 49] MacServer, [00000230D831B500][00000230D6C7B6C0 49] Linux, [00000230D8350C00][00000230D6C7F840 49] LinuxAArch64, [00000230D831AF00][00000230D6C839C0 49] LinuxNoEditor, [00000230D8350B00][00000230D6C87B40 49] LinuxAArch64NoEditor, [00000230D831B700][00000230D6C8A140 49] LinuxClient, [00000230D8351A00][00000230D6C8E2C0 49] LinuxAArch64Client, [00000230D8319000][00000230D6C92440 49] LinuxServer, [00000230D8352500][00000230D6C965C0 49] LinuxAArch64Server, [00000230D8319900][00000230D6C9A740 49] Android, [00000230D8351300][00000230D6C9E8C0 49] Android_Low, [00000230D831A700][00000230D6CA2A40 49] Android_Mid, [00000230D8352B00][00000230D6CA6BC0 49] Android_High, [00000230D831B800][00000230D6CAAD40 49] Android_Default, [00000230D8351600][00000230D6C66E80 49] Android_Adreno4xx, [00000230D8319500][00000230D6CAEFC0 49] Android_Adreno5xx_Low, [00000230D8333600][00000230C7E51100 49] Android_Adreno5xx, [00000230D8381800][00000230C7E59280 49] Android_Adreno6xx, [00000230D8331200][00000230C7E5D400 49] Android_Adreno6xx_Vulkan, [00000230D8383C00][00000230C7E61580 49] Android_Mali_T6xx, [00000230D8331100][00000230C7E65700 49] Android_Mali_T7xx, [00000230D8381600][00000230C7E69880 49] Android_Mali_T8xx, [00000230D8331E00][00000230C7E6DA00 49] Android_Mali_G71, [00000230D8380500][00000230C7E71B80 49] Android_Mali_G72, [00000230D8330800][00000230C7E74180 49] Android_Mali_G72_Vulkan, [00000230D8381300][00000230C7E78300 49] Android_Mali_G76, [00000230D8330100][00000230C7E7C480 49] Android_Mali_G76_Vulkan, [00000230D8381F00][00000230C7E80600 49] Android_Mali_G77, [00000230D8331000][00000230C7E84780 49] Android_Mali_G77_Vulkan, [00000230D8380A00][00000230C7E88900 49] Android_Mali_G78, [00000230D8332C00][00000230C7E8CA80 49] Android_Mali_G78_Vulkan, [00000230D8383600][00000230C7E90C00 49] Android_Mali_G710, [00000230D8332A00][00000230C7E94D80 49] Android_Mali_G710_Vulkan, [00000230D8383F00][00000230C7E98F00 49] Android_Vulkan_SM5, [00000230D8333B00][00000230C7E55040 49] Android_PowerVR_G6xxx, [00000230D8383B00][00000230C7E9D180 49] Android_PowerVR_GT7xxx, [00000230D8333900][00000230C7EA12C0 49] Android_PowerVR_GE8xxx, [00000230D8380C00][00000230C7EA9440 49] Android_PowerVR_GM9xxx, [00000230D8332700][00000230C7EAD5C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000230D8382700][00000230D0431740 49] Android_TegraK1, [00000230D8330900][00000230D04358C0 49] Android_Unknown_Vulkan, [00000230D8381D00][00000230D0439A40 49] Lumin, [00000230D8330500][00000230D043DBC0 49] Lumin_Desktop, [00000230D8383300][00000230D04401C0 49] HoloLens, 
+[2023.03.27-12.37.28:952][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.27-12.37.28:952][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.27-12.37.28:952][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.27-12.37.28:952][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.27-12.37.28:952][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.27-12.37.28:992][  0]LogNetVersion: MyProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3629800737)
+[2023.03.27-12.37.29:768][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.27-12.37.29:851][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.27-12.37.29:859][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.27-12.37.29:859][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.27-12.37.29:859][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.27-12.37.30:744][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CE8822CB4DB1C47A3AB647A1A270881A | Instance: 8385700D496E6A2D18E59986C172EDBA (LAPTOP-86UUHP7P-16732).
+[2023.03.27-12.37.31:067][  0]LogPython: Using Python 3.7.7
+[2023.03.27-12.37.31:892][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.27-12.37.31:908][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.27-12.37.32:442][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.32:442][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.32:455][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.32:469][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.32:494][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.32:540][  0]LogUProjectInfo: Found projects:
+[2023.03.27-12.37.33:278][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.27-12.37.33:391][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.27-12.37.33:474][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.27-12.37.33:474][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.27-12.37.33:788][  0]LogCollectionManager: Loaded 0 collections in 0.001254 seconds
+[2023.03.27-12.37.33:851][  0]LogFileCache: Scanning file cache for directory 'G:/新建文件夹 (9)/MyProject/MyProject 4.27/Saved/Collections/' took 0.00s
+[2023.03.27-12.37.33:851][  0]LogFileCache: Scanning file cache for directory 'G:/新建文件夹 (9)/MyProject/MyProject 4.27/Content/Developers/Lenovo/Collections/' took 0.00s
+[2023.03.27-12.37.33:851][  0]LogFileCache: Scanning file cache for directory 'G:/新建文件夹 (9)/MyProject/MyProject 4.27/Content/Collections/' took 0.00s
+[2023.03.27-12.37.33:851][  0]LogOcInput: OculusInput pre-init called
+[2023.03.27-12.37.34:392][  0]LogEngine: Initializing Engine...
+[2023.03.27-12.37.34:408][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.27-12.37.34:410][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.27-12.37.34:410][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.27-12.37.34:412][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.03.27-12.37.34:786][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.27-12.37.34:808][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.27-12.37.34:808][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.27-12.37.34:823][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.27-12.37.34:825][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.27-12.37.34:825][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.27-12.37.34:825][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-12.37.34:825][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-12.37.34:825][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-12.37.34:826][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-12.37.34:826][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-12.37.34:826][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-12.37.34:826][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-12.37.34:870][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-12.37.34:870][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-12.37.35:028][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2023.03.27-12.37.35:030][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-12.37.35:036][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-12.37.35:036][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-12.37.35:038][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-12.37.35:038][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-12.37.35:038][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-12.37.35:039][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-12.37.35:039][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-12.37.35:039][  0]LogInit: FAudioDevice initialized.
+[2023.03.27-12.37.35:039][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.27-12.37.35:039][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.27-12.37.35:124][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.27-12.37.35:126][  0]LogInit: Texture streaming: Enabled
+[2023.03.27-12.37.35:170][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.27-12.37.35:209][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.27-12.37.35:209][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.27-12.37.35:299][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.27-12.37.35:415][  0]LogInit: Transaction tracking system initialized
+[2023.03.27-12.37.35:498][  0]BlueprintLog: New page: 编辑器加载
+[2023.03.27-12.37.35:718][  0]LocalizationService: 本地化服务已禁用
+[2023.03.27-12.37.35:809][  0]TimingProfiler: Initialize
+[2023.03.27-12.37.35:809][  0]TimingProfiler: OnSessionChanged
+[2023.03.27-12.37.35:809][  0]LoadingProfiler: Initialize
+[2023.03.27-12.37.35:809][  0]LoadingProfiler: OnSessionChanged
+[2023.03.27-12.37.35:809][  0]NetworkingProfiler: Initialize
+[2023.03.27-12.37.35:809][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.27-12.37.35:809][  0]MemoryProfiler: Initialize
+[2023.03.27-12.37.35:809][  0]MemoryProfiler: OnSessionChanged
+[2023.03.27-12.37.36:149][  0]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.27-12.37.36:154][  0]LogSlate: Took 0.005009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.27-12.37.39:430][  0]LogSlate: Window '低驱动空间警告' being destroyed
+[2023.03.27-12.37.39:436][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2023.03.27-12.37.39:440][  0]Message dialog closed, result: Ok, title: 低驱动空间警告, text: 以下硬盘位置的剩余空间不足。
+
+建议清理空间，以免文件无法写入和保存而引起崩溃和数据丢失问题。
+
+  剩余0MB 		 C:/Users/Lenovo/Documents/
+ 				 用户指定设置所保存的用户目录。 
+
+[2023.03.27-12.37.39:744][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.27-12.37.39:744][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.27-12.37.40:388][  0]LogFileCache: Scanning file cache for directory 'G:/新建文件夹 (9)/MyProject/MyProject 4.27/Content/' took 0.01s
+[2023.03.27-12.37.40:857][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.27-12.37.40:909][  0]SourceControl: 源码管理已禁用
+[2023.03.27-12.37.41:011][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2023.03.27-12.37.42:702][  0]LogSlate: Window '恢复包' being destroyed
+[2023.03.27-12.37.42:707][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2023.03.27-12.37.42:738][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2023.03.27-12.37.42:738][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.430
+[2023.03.27-12.37.42:739][  0]Cmd: MAP LOAD FILE="../../../../../../新建文件夹 (9)/MyProject/MyProject 4.27/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-12.37.42:740][  0]LightingResults: New page: 光照构建
+[2023.03.27-12.37.42:744][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.37.42:744][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.37.42:744][  0]MapCheck: New page: 地图检测
+[2023.03.27-12.37.42:745][  0]LightingResults: New page: 光照构建
+[2023.03.27-12.37.42:755][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-12.37.42:759][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.03.27-12.37.43:249][  0]LogMaterial: Display: Missing cached shadermap for Beta_HighLimbsGeoSG3 in PCD3D_SM5, Default, SM5 (DDC key hash: 07C77FAE5EFA959C51C45558E0FFB22BCE2E9DBE), compiling. 
+[2023.03.27-12.37.43:318][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2023.03.27-12.37.43:333][  0]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:378][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36 (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/1F97A30CA439B98EAAC3B9C89A8BECF36' (Free Disk Space: 0.
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:379][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:380][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:381][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:382][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.27-12.37.43:383][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:383][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:383][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:383][  0]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C (磁盘空间不足。)
+[2023.03.27-12.37.43:401][  0]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' (Free Disk Space: 0.
+[2023.03.27-12.37.43:402][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.43:402][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-12.37.43:417][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.27-12.37.43:418][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-12.37.43:419][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.17毫秒。
+[2023.03.27-12.37.43:419][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.680
+[2023.03.27-12.37.43:422][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.114
+[2023.03.27-12.37.43:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.43:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.43:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.43:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.43:686][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3822 classes and 928 folders.
+[2023.03.27-12.37.43:692][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.27-12.37.43:698][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.27-12.37.43:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.27-12.37.43:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.27-12.37.43:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2023.03.27-12.37.43:700][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.27-12.37.43:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.27-12.37.43:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.27-12.37.43:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.03.27-12.37.43:702][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.27-12.37.43:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.27-12.37.43:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.27-12.37.43:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.03.27-12.37.43:705][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.27-12.37.43:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.27-12.37.43:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.27-12.37.43:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.03.27-12.37.43:707][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.27-12.37.43:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.27-12.37.43:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.27-12.37.43:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.03.27-12.37.43:709][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.27-12.37.43:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.27-12.37.43:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.27-12.37.43:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.03.27-12.37.43:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.27-12.37.43:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.27-12.37.43:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.27-12.37.43:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.27-12.37.43:713][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.27-12.37.43:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.27-12.37.43:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.27-12.37.43:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.27-12.37.43:715][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.27-12.37.43:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.27-12.37.43:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.27-12.37.43:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.03.27-12.37.43:717][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.27-12.37.43:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.27-12.37.43:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:717][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.27-12.37.43:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.03.27-12.37.43:719][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.27-12.37.43:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.27-12.37.43:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.27-12.37.43:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.03.27-12.37.43:722][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.27-12.37.43:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.27-12.37.43:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.27-12.37.43:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2023.03.27-12.37.43:725][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.27-12.37.43:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.27-12.37.43:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.27-12.37.43:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.03.27-12.37.43:727][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.27-12.37.43:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.27-12.37.43:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.27-12.37.43:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.03.27-12.37.43:729][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.27-12.37.43:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.27-12.37.43:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.27-12.37.43:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.03.27-12.37.43:731][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.27-12.37.43:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.27-12.37.43:731][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:731][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.27-12.37.43:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:733][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.27-12.37.43:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.27-12.37.43:733][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:733][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.27-12.37.43:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:735][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.27-12.37.43:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.27-12.37.43:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.27-12.37.43:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.03.27-12.37.43:737][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.27-12.37.43:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.27-12.37.43:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.27-12.37.43:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.03.27-12.37.43:739][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.27-12.37.43:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.27-12.37.43:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.27-12.37.43:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:742][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.27-12.37.43:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.27-12.37.43:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.27-12.37.43:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:744][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.27-12.37.43:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.27-12.37.43:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.27-12.37.43:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:746][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.27-12.37.43:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.27-12.37.43:746][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:746][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.27-12.37.43:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.03.27-12.37.43:748][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.27-12.37.43:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.27-12.37.43:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.27-12.37.43:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.03.27-12.37.43:750][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.27-12.37.43:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.27-12.37.43:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.27-12.37.43:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.03.27-12.37.43:752][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.27-12.37.43:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.27-12.37.43:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.27-12.37.43:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.27-12.37.43:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/新建文件夹 (6)/新建文件夹 (2)/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.27-12.37.43:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.03.27-12.37.43:928][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.43:928][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.03.27-12.37.43:930][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.03.27-12.37.44:084][  0]LogSlate: Took 0.000638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.27-12.37.44:085][  0]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.27-12.37.44:199][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2023.03.27-12.37.45:084][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.45:084][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.45:106][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.27-12.37.45:106][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.03.27-12.37.45:106][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.03.27-12.37.45:106][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.27-12.37.45:106][  0]LogLoad: (Engine Initialization) Total time: 27.80 seconds
+[2023.03.27-12.37.45:106][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.27-12.37.45:186][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.27-12.37.45:228][  1]LogAssetRegistry: Asset discovery search completed in 16.8903 seconds
+[2023.03.27-12.37.45:243][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.03.27-12.37.45:298][  2]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.27-12.37.45:396][  7]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.45:905][ 33]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.46:140][ 44]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.27-12.37.46:400][ 50]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.46:772][ 63]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2023.03.27-12.37.46:826][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-12.37.46:827][ 63]PIE: New page: PIE会话：ThirdPersonExampleMap（2023年3月28日 上午9:37:46）
+[2023.03.27-12.37.46:828][ 63]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.27-12.37.46:832][ 63]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.27-12.37.46:832][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.27-12.37.46:851][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019002s)
+[2023.03.27-12.37.46:853][ 63]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.27-12.37.46:853][ 63]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2023.03.27-12.37.46:854][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021663s)
+[2023.03.27-12.37.46:863][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.27-12.37.46:868][ 63]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-12.37.46:868][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-12.37.46:868][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-12.37.46:869][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-12.37.46:869][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-12.37.46:869][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-12.37.46:869][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-12.37.46:883][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-12.37.46:883][ 63]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-12.37.46:944][ 63]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-12.37.46:944][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-12.37.46:946][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-12.37.46:946][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-12.37.46:946][ 63]LogInit: FAudioDevice initialized.
+[2023.03.27-12.37.46:946][ 63]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.03.27-12.37.47:009][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.47:015][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.27-12.37.47:025][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.27-23.07.47
+[2023.03.27-12.37.47:027][ 63]LogWorld: Bringing up level for play took: 0.008665
+[2023.03.27-12.37.47:027][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.03.27-12.37.47:037][ 63]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.27-12.37.47:040][ 63]PIE: 登陆的服务器
+[2023.03.27-12.37.47:042][ 63]PIE: PIE总开始时间：0.262秒。
+[2023.03.27-12.37.47:083][ 64]LogRenderer: Reallocating scene render targets to support 1168x604 Format 10 NumSamples 1 (Frame:1).
+[2023.03.27-12.37.47:407][ 77]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.47:908][104]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' (Error Code 3), retrying in .5s...
+[2023.03.27-12.37.48:423][135]LogFileManager: Error: Error moving file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in'.
+[2023.03.27-12.37.48:423][135]LogShaderCompilers: Error: Could not rename the shader compiler transfer filename to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2/WorkerInputOnly.in' from 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/2F94964C7471FFDAFEB49A99C5B49533C' (Free Disk Space: 0).
+[2023.03.27-12.37.48:423][135]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:439][136]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:456][137]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:473][138]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:490][139]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:506][140]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:524][141]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:524][141]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:539][142]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:556][143]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:574][144]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:590][145]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:606][146]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:624][147]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:638][148]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:657][149]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:673][150]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:690][151]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:706][152]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:723][153]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:739][154]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:756][155]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:774][156]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:790][157]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:856][158]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:856][158]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:856][158]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:856][158]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:880][160]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:897][161]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:915][162]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:932][163]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:949][164]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:964][165]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:987][166]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.48:987][166]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:004][167]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:030][169]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:047][170]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:064][171]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:083][172]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:096][173]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:113][174]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:129][175]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:146][176]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:164][177]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:182][178]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:197][179]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:214][180]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:231][181]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:246][182]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:265][183]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:281][184]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:299][185]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:315][186]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:329][187]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:346][188]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:366][189]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:381][190]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:398][191]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:413][192]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:431][193]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:446][194]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:465][195]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:483][196]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:483][196]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:513][198]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:532][199]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:549][200]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:563][201]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:581][202]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:598][203]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:613][204]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:632][205]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:647][206]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:663][207]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:679][208]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:696][209]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:715][210]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:730][211]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:747][212]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:765][213]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:780][214]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:798][215]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:866][216]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:866][216]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:866][216]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:866][216]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:866][216]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:891][218]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:908][219]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:924][220]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:940][221]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:956][222]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:973][223]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:973][223]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.49:993][224]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:007][225]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:023][226]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:040][227]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:058][228]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:075][229]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:091][230]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:107][231]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:124][232]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:140][233]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:157][234]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:174][235]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:190][236]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:208][237]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:223][238]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:239][239]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:256][240]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:274][241]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:275][241]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:306][243]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:307][243]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:323][244]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:339][245]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:356][246]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:374][247]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:391][248]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:407][249]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:424][250]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:440][251]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:457][252]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:475][253]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:490][254]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:506][255]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:523][256]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:540][257]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:558][258]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:574][259]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:592][260]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:607][261]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:623][262]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:639][263]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:656][264]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:673][265]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:691][266]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:709][267]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:709][267]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:725][268]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:757][270]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:772][271]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:772][271]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:789][272]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:807][273]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:871][274]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:871][274]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:871][274]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:871][274]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:895][276]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:912][277]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:930][278]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:945][279]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:962][280]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:980][281]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.50:999][282]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:015][283]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:028][284]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:044][285]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:061][286]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:079][287]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:095][288]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:111][289]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:131][290]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:144][291]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:161][292]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:178][293]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:196][294]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:212][295]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:228][296]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:244][297]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:261][298]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:278][299]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:294][300]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:311][301]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:327][302]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:344][303]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:361][304]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:378][305]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:395][306]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:413][307]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:428][308]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:447][309]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:463][310]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:480][311]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:495][312]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:513][313]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:528][314]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:546][315]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:561][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:662][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-12.37.51:662][316]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.27-12.37.51:663][316]LogSlate: Window 'MyProject预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.27-12.37.51:670][316]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.37.51:671][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.37.51:681][316]LogShaderCompilers: Warning: Could not create the shader compiler transfer file 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5', retrying...
+[2023.03.27-12.37.51:688][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.27-12.37.51:689][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error writing to file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:698][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:699][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:701][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-12.37.51:708][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:708][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:708][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:708][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:708][316]LogFileManager: Error: Error flushing file: C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5 (磁盘空间不足。)
+[2023.03.27-12.37.51:708][316]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3B32872EB49816E25297F74947ADECCE5' (Free Disk Space: 0.
+[2023.03.27-12.37.51:711][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.27-12.37.51:735][317]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.03.27-12.37.55:228][480]LogShaderCompilers: Error: Expecting ShaderCompileWorker output version 6, got 0 instead! Forgot to build ShaderCompileWorker?
+[2023.03.27-12.37.57:768][618]Message dialog closed, result: Ok, title: 消息, text: Expecting ShaderCompileWorker output version 6, got 0 instead! Forgot to build ShaderCompileWorker?
+[2023.03.27-12.37.57:768][618]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.03.27-12.37.57:768][618]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.03.27-12.37.57:768][618]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.03.27-12.37.57:768][618]LogShaderCompilers: Error: Output file corrupted (expected 2122 bytes, but only got 12): C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out
+[2023.03.27-12.37.57:768][618]Message dialog closed, result: Ok, title: 消息, text: Output file corrupted (expected 2122 bytes, but only got 12): C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out
+[2023.03.27-12.37.57:768][618]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.03.27-12.37.57:768][618]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.03.27-12.37.57:768][618]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogShaderCompilers: Error: Expecting ShaderCompileWorker Single Jobs 83, got -1 instead! Forgot to build ShaderCompileWorker?
+[2023.03.27-12.37.57:841][618]Message dialog closed, result: Ok, title: 消息, text: Expecting ShaderCompileWorker Single Jobs 83, got -1 instead! Forgot to build ShaderCompileWorker?
+[2023.03.27-12.37.57:841][618]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.03.27-12.37.57:841][618]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.03.27-12.37.57:841][618]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogShaderCompilers: Error: ShaderCompileWorker returned 32760 single jobs, 7 expected
+[2023.03.27-12.37.57:841][618]Message dialog closed, result: Ok, title: 消息, text: ShaderCompileWorker returned 32760 single jobs, 7 expected
+[2023.03.27-12.37.57:841][618]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.03.27-12.37.57:841][618]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.03.27-12.37.57:841][618]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:841][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 8 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/2C862D6F44DB2D1C4B75B9B9824F19F6/3/WorkerOutputOnly.out, size=12)
+[2023.03.27-12.37.57:842][618]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2023.03.27-12.37.57:842][618]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
