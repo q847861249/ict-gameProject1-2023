@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/EcoA76.uasset"
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/EcoA76.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleTyoe.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleType.uasset"
 			]
 		}
 	]
