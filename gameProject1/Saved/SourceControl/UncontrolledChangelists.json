@@ -7,7 +7,11 @@
 			"files": [
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/EcoA76.uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleTyoe.uasset",
-				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleType.uasset"
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleType.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/1M.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/2M.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/Braced_Hang_To_Crouch_binddummy_Anim1(1).uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/Climbing_binddummy_Anim1.uasset"
 			]
 		}
 	]
