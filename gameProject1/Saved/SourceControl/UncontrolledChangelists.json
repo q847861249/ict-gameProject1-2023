@@ -6,13 +6,34 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/EcoA76.uasset",
-				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleTyoe.uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleType.uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/1M.uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/2M.uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/Braced_Hang_To_Crouch_binddummy_Anim1(1).uasset",
 				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/Climb/Climbing_binddummy_Anim1.uasset",
-				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/UI/PB_Stamina.uasset"
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/UI/PB_Stamina.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/Animation/MM_AnimationBlueprint.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mesh/SK_EcoA76_Skeleton.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/Mantle.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/UI/PB_combatUI1.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/Level_Layout.umap",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/lambert1.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/SpikeTrap_HideAnimation.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/SpikeTrap_HideAnimation_Anim.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/SpikeTrap_HideAnimation_PhysicsAsset.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/SpikeTrap_HideAnimation_Skeleton.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/SpikeTrap/NewBlueprint.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/test_level.umap",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mesh/Braced_Hang.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mesh/Braced_HandIdel.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mesh/CR_EcoA76_IKFeet.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Mesh/Braced_Hang/Driving_Braced_Hang.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/Inventory_system/Blueprints/BAG/BPinventory.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/Inventory_system/Blueprints/BAG/BPinventory_2.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/Inventory_system/Blueprints/ITEMS/item10-1.uasset",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/level/Level_Layout.umap",
+				"F:/ICT Project Capstone/ict-gameProject1-2023/gameProject1/Content/EcoA76/Character/BluePrint/MantleTyoe.uasset"
 			]
 		}
 	]
