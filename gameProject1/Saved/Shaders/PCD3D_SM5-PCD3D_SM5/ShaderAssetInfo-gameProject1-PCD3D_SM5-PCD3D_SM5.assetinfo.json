@@ -1,0 +1,972 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "579E0F531B69A5C6F20564F0D80A7DB64A31410F",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05D168923B30A1B25289298A647E1C2CF7F27B21",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "4C7B22392BD411EFB819BE20B013EDAC701B2D31",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9C938E3E3B2DE42B356EDBF058A2B2B5D3473F0A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "94DEB8A9F6513D3FDED89E5B403CEE58B17FB0C6",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E3AF56DA7568953DEB50371AFBEB96E622BB9ED3",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C7C12F1E91B789D5BDAC06249A99EC9F3DB7E02D",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "CB23E0267F8CB72EDF33305A9A40F656AA753B1E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "ECBFC710769E7C8506086ECCDCAA1AF3BE5517D3",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5B2B8B1FCDA69027F9E780A7FE2A42F383FAF1AA",
+			"Assets": [
+				"/Interchange/Materials/UnlitMaterial",
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E71CA1232C82CFD60EA5AE74B02EF8408F96E307",
+			"Assets": [
+				"/Game/ThirdPersonBP/Blueprints/Beta_HighLimbsGeoSG3"
+			]
+		},
+		{
+			"ShaderMapHash": "F59C9F51A7A083766D264B4B8B16D4CC1CE06488",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "37FFC7007C37BB4B0CC57977CB8041940796F35A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C12F212B73993622B0F2598C9A82C4BA7C62A10C",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "16658EB737F7BC3F260CE04B8279AB1B3FC8BDED",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "AF3DDB023E247F9D861367B7F5029012B4C819EC",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D81F826D76A805894FC7536AA06F127153E368",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Ring_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "516C66250D956ED660239FF462144BDB9D989336",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Ring_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "CA18626C48BDB7F6DE49D6AF7172C4163B6E99DE",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0640BD9D8D66E2BB73BE1CC00ABD5FF66058A07B",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "6471E2C7773A2D23E9B968EEA9877A2C50896085",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "239C62812C247F1EE0B9B4D844C628B040DD76AC",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Upperbody"
+			]
+		},
+		{
+			"ShaderMapHash": "192B04F30732236F6D5CF6A3C8414CC8E518E0CD",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Upperbody"
+			]
+		},
+		{
+			"ShaderMapHash": "F3A0F93A63DDC6F5E1D873DFD4CB0404562B0BC3",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ED0C03FFCAB6E3B021D8CB15C00E664D0B962EA7",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "37A03656098B716CAE7D24202AA7113A149E02E2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "0D76944AB68A7459A264731115865E6C0E2EBDC7",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2881AA2D67976930945C785626F8E1A5893AEEE9",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Upperbody_Skin"
+			]
+		},
+		{
+			"ShaderMapHash": "F2EE6DCA64861E6C08441DD9A73F0977534E05B4",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Upperbody_Skin"
+			]
+		},
+		{
+			"ShaderMapHash": "DF1BF22ECF5BF0EFE210263C65A98E6FDE5195E1",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7CE2D92FB51010E26803314E33649E45D203F3EF",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A99E425BA44E39389DBBF31010E970F95FBD4B48",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B5EE032D38069557C54006A50716C0D2EDD5366",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Beard"
+			]
+		},
+		{
+			"ShaderMapHash": "717D9039750EFA4CCB626301BC19CF73A13A9121",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Beard"
+			]
+		},
+		{
+			"ShaderMapHash": "8657C27DCB0C673F79D6E8C080BD57A2A4B63689",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_OuterRing_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "CC7A69B8278B6EDD712D1672113AC42ECC5D9641",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_OuterRing_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "C3744E6B30244C292C44ABD295BB4255518A2D65",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "37A893D34E7F21E602A12DB2979E971D751F7480",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A2CAE2D3C2C993E8B8AA37929C4E21EFE292D38C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2B4D154941EEB6DB4E10FE086FADC26493D83200",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "FAB3E6F4379A67043595431673B631EE2BDA7BFE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E483A75441E6D48E8035CE99C6027DFE9F0BD4D3",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD88812F5AF6A8CF1426C13903DFD110033E6450",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Upperbody_Skin_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "ED53A59D81578F9C72D5456BD9B14D443BFA27E2",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Upperbody_Skin_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "EA176AAFDF9CFE92EFA39AB2F2D1C8D7BDDD78A7",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "56A587D5655D1619EF1B0204CD4A04D491D31764",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "F1F6725CBEDE7C521D12501F50CBDA62256F2C95",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "352764134F0983C0E83E821A8DEF67F2D3ED4D8F",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "62F43C6A79232642F26BEBEE0D9A0B2AEB5438C5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7EB9892F72DFB96A39ECB72E0D2EC39A675AD4",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_OuterRing_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE88866A3716EF2B512C8A92B3CB65871DA5CA8",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Materials/M_Gideon_OuterRing_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "5A9F31D38E2E99D979575CBA9EE64DD955A76259",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8BDC1C1EF489D1ACE751E726076A8DA37EFB6F51",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B9DFDC49330F547762AA43DB58785A26DD36265F",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Beard_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "C1BCCE51C049BA105164BBFE6CCD06495170D76E",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Beard_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "F2CB0EC29D2A19AE4077F4C57519F3CFD7A290DE",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Upperbody_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "05AAFF51B7FE76B4E60182F30DF2ECC84DD84956",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_Upperbody_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "EF58B4151996AB4312A1CD45250CBEFEF126A3F2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B82C9BA5B61D068F6200420AA620E730FBE2ED38",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "FDEBED08CDA4138BABB822A3E8F47E57A6A0CE54",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "67DDFE2EC86C278FA90F6DAF2947D428C247ECA0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "C44F924CE7C65002CDEF12B517151396F0F58DD8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "0107CC54374954D998CD6242EA01C09D07B1D7B9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "94511CC036E58DF2BF0C35916D28156F53FEDB8A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "5E8E4FDF56E2065F285B6CC3E8024DF1A930C3C8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "F852AEF7CAAC86E2CAEA05AA83CB5C414BEC6D57",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B3F084BE14E58CB4569F69BDE999C030F703CC8B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "0DACFE11F72BA88CB90604A629BA452B8F8EBE2B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "3DB51B9980265AB7BDA52D068AFD3EC04BD02E22",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A07B4CD6A2D2B0AF78E412FB532DCA3F5079968D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "FA17CFF5FCAFD297149CFF09046979EE5E8377A5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "D0118477CBA2FDCA6752760324568B4304FED28C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A31F559106695EDDE19FE5D72B793408A9FD38F1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "7B9701FEF494E37C5670FD2AABBD91D98DAE0363",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "9CB92FD83DAD2C510F54B9ABEAE49E151D5FA037",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_LowerBody_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "C26483096FCB40911639896AACC50B1BC02F513C",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Mephisto/Materials/M_Gideon_LowerBody_Mephisto"
+			]
+		},
+		{
+			"ShaderMapHash": "4CD3B793DDA0159AEE3D377B6E6B8A7109486A38",
+			"Assets": [
+				"/Interchange/Materials/ClearCoatMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "65C6C50A97B2EB816E5795ECAEC6AC4A86E52399",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2A3DB3B9D7E1CC5CC0CAD38E79C9B06226A20B90",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/VolumeFog/MI_Fog_SphericalDensity_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "E9CD711D999B601EA75E8487BE8A560C129B555F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "5171010E2E3C83E38840E5A1E009586E38771094",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "307CD41354989D3DE6F809303254862D26076E27",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "8B25C4C1DAFAAA6B9093770E691552B388508392",
+			"Assets": [
+				"/Interchange/Materials/SheenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "497FB740F13089DF1B21CD5BA9DA20A9D5643175",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB68DBEFA635F4AB21002296C8C9933A1EA1D21",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14B71D500E37EAEF8C136F3A1DB794DD73D95343",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "750D89A02E2F406F173328742BBF0697A82C29BA",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Floor_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "3E53EE87F032E5503A5F6A08A2FFCE53BDAA95D2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "F392120E8323E9469E3AAFB9138FA1D2543EDDDE",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/VolumeFog/M_Fog_SphericalDensity"
+			]
+		},
+		{
+			"ShaderMapHash": "58F247CB47E7C2A8D9913DB4FCC32EDFCB8321F3",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_BlackHole_Pebbles"
+			]
+		},
+		{
+			"ShaderMapHash": "3AE6A89681D2B6CF1529F94E27EEAD05878015EA",
+			"Assets": [
+				"/Interchange/gltf/M_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A79342CEA292680A873B1CB5217E042444D1FB51",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "0C512F48293746439F89C1AF50C36851114666DC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "1A25B7BC86947130F6F064629AB24FD1B98EF0BE",
+			"Assets": [
+				"/Interchange/Materials/ThinTranslucentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2255DB1A9D1795DC92A2ADE53B0CDD1E6BE8E1F2",
+			"Assets": [
+				"/Interchange/Materials/PBRSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AB1FD9893BB73C71D04829DE71204434BF22E51C",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/M_Radial_Blur_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "16501B2746AA95FE1DA46E60B9FB67F8419C2588",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "D6E270E5B1777BA30BD81D78B0E4E20E4247BC8A",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "516EAF4A4D5CDB7CD1CC18E568B6F949A8811631",
+			"Assets": [
+				"/Interchange/Materials/SubsurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D67C996D2C554CA1586E80962EF3344A8FEC9EB4",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Anchor_Flames"
+			]
+		},
+		{
+			"ShaderMapHash": "0BC5EE624123260D78B7B6C29EE85787C1DC7D17",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "C9007AA0190B78D25AA51BA2867F2B3701B121C2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "BCD777A3F8BE3D302C0AFD6F7FB62ADCD7AB3A1F",
+			"Assets": [
+				"/Interchange/gltf/M_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "E818435D4626E78CA86AE9F65699705F6D45E252",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Misc/M_Spookyface_Spline"
+			]
+		},
+		{
+			"ShaderMapHash": "CF057F789D69D406B415337DEED0B4132EC10595",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "F6B4790792BFA841D9738F9B1BA71295F03BF268",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "A960FDB1B24FAD51371FE4D504F471A588CF6968",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Meshes/Splines/M_Spline_Preview"
+			]
+		},
+		{
+			"ShaderMapHash": "81393D2691D96F6000FCD9E712100CCD0CF017C2",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Smoke/M_SplineThickenSmoke_Trails_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "72C993E9D067BAA516044131888B83A40FB53F6D",
+			"Assets": [
+				"/Interchange/Materials/OrenNayerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA35BC799F71FBCDBE31316E69F9F29FAB99E11C",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Meteor_Fragment"
+			]
+		},
+		{
+			"ShaderMapHash": "DE7EE9483A3EBC15FA3A337DA071E979C8EB2A42",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45D27425B8179BC002A8257E624AFE5A21F1CBF4",
+			"Assets": [
+				"/Game/BattleAxePack/Materials/M_Tomahawk"
+			]
+		},
+		{
+			"ShaderMapHash": "07EDD93415F991975DECF8D383B41FA551CFF1C0",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E1A6F84EC20DA7A2E492BDC604AFFCFD43748",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B5EDDF84C93C52EB1C2421173E0F81116F9648FD",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "579C95F0207C26BCADA89DB91CC0F40842B5A7B8",
+			"Assets": [
+				"/Interchange/Materials/PhongSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D75D57E5943564ED710EC00CA9323F46E652BA09",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BE338CF32A41D814E5251B75EF930046D3EB358B",
+			"Assets": [
+				"/Game/Zombie/matirial/skeletonZombie_Material",
+				"/Game/Zombie/matirial/skeletonZombie_Material1"
+			]
+		},
+		{
+			"ShaderMapHash": "A3F4224ED9F7763B31CAB9EF50EC1C8BB5E32BF3",
+			"Assets": [
+				"/Game/EcoA76/Material/Hair/M_Hair_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "E060F3175CA7C19BAB812164D1A17A7AB2AFA9FA",
+			"Assets": [
+				"/Game/EcoA76/Material/Body/M_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "ED470A54428AB12FCA0209A83468D8B7DC2722AA",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "462755745CF118A31E95E6F6FF74476616F1E2C2",
+			"Assets": [
+				"/Game/EcoA76/Material/Ordinary_Material/M_Clothes_1"
+			]
+		},
+		{
+			"ShaderMapHash": "6DBC3DC46FC9EED211D7139B6991F169A8C9E83D",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "03508B32E0E497BAB73F0A5E42DB648468BE7917",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "334E1F1703618EC80D25927553096B0460475AA5",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "0F88DEFA0C8DB08A510BF43C2C5F9707BC3A922F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AA5DB7A4323D27B5C6CB7AC6CB765F7268051FC7",
+			"Assets": [
+				"/Interchange/Materials/LambertSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C5E8906F0C8A515292914199BEC40EBB8D708D1",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Debris/M_Explosion_RockChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "779CF7D4C785DBAF5AEDCD13C2F6A8FC0979238B",
+			"Assets": [
+				"/Game/defend/matirial/M_energyShield"
+			]
+		},
+		{
+			"ShaderMapHash": "F4C4777470D584F6FD1DE51AEDFEE168A07BA943",
+			"Assets": [
+				"/Game/EcoA76/Material/Ordinary_Material/M_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "65CAA9BDA12417A89F5DDA9F54A914E30A95BA78",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Flares/M_GlowPoint_DistShrink_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "696435786F9FA3D4C8AC5963CD32F5F7F74797B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "60846630B9F55C3F2435A94D76718CA19D984436",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F612E2A0E79764742BAE98855B5278CB3C637A",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Star_Runes_Big_Undertow"
+			]
+		},
+		{
+			"ShaderMapHash": "05ABD5B8476AA77665B45C4BF0B210BC2E437C64",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BC63854236D268C38E5A5F0973CECD6DC2A52134",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "280C3D31205D7AD93BF7ACB43C8140CCBC4FEECF",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7132984BE5E722AAC1BAA74A9B26E4DEF7053518",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Star_Runes_Ring_Ult"
+			]
+		},
+		{
+			"ShaderMapHash": "A72E16A5DACA565481943B49798D9ACD325D45A2",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Star_Runes_Ult_Undertow"
+			]
+		},
+		{
+			"ShaderMapHash": "A821A200A9A1ACF2448D527CDEC9091BD90826AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "478E37536A39674A68D03EA652F950522BE42E91",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Star_Runes_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "671C4A5052816ECF992FA1CA490C4A101DD67429",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "631016CD8B6F80963AB56FB607B55ADC8CF2CBCC",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor_Part_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "1424D952BBC7A0BED84369D69D4D28BF47D694D9",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor_Part_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "562F15AEC87C482C56900A2921615868BD38D94E",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor_Part_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "3FF01ECD1EB9BAAF3E374D3B9974331B21E9F707",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Flares/M_Lensflare_TB_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "FFA60F6A99E7691BA8B4AA5345871C83DB34BD66",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Explosion_Smoke_Spears"
+			]
+		},
+		{
+			"ShaderMapHash": "3233CE02DF727ADB9F508F158B708A10A23AD0E5",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/M_Fireball_Unlit_Purple"
+			]
+		},
+		{
+			"ShaderMapHash": "D7F283CB1B8F96F3B2CEB20758B67FA1A81905FC",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "80CA0C34D1AA1374BFAC870CC9DE88091E3A9306",
+			"Assets": [
+				"/Game/ParagonGideon/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "FC850478234BF207CF13123170CE15432FCDC6B4",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Water/M_WaterImpact_Strand_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "9B97AB85EB27FDB8B0D61E7F55778BEADA137392",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Smoke/M_WispySmokeTest"
+			]
+		},
+		{
+			"ShaderMapHash": "835BF8EAAB23018344E61F46A77EFF1A9CFAD452",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Game/M_FlareMesh"
+			]
+		},
+		{
+			"ShaderMapHash": "B8E7204A00B7BFAA3BBDB4725CFD50849CC524E9",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Water/M_Gideon_Water_Particles_Body_Inst",
+				"/Game/ParagonGideon/FX/Materials/Water/M_Gideon_Water_Particles"
+			]
+		},
+		{
+			"ShaderMapHash": "36E41E5886EF29FFDF1DBFC79740F69DB1A68784",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Sparks/M_Hotdog_VLerp_DirectionTint"
+			]
+		},
+		{
+			"ShaderMapHash": "A70244A245DF7EE458A566543E6872DEA07586A7",
+			"Assets": [
+				"/Game/EcoA76/Material/Clothes/M_Clothes"
+			]
+		},
+		{
+			"ShaderMapHash": "145E941BBC102D76BF921687E57A5484C3747D28",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Environment/Water/M_WaterRipple_Mesh_Foam"
+			]
+		},
+		{
+			"ShaderMapHash": "AF7739407716BE7FE2ED6F69252537E810DF142C",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor"
+			]
+		},
+		{
+			"ShaderMapHash": "FA75E8754D438E8EA146E29A8E9DF95D86716961",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor"
+			]
+		},
+		{
+			"ShaderMapHash": "7BF4851CE63AEA5528128AB0521B727731C6F9E1",
+			"Assets": [
+				"/Game/ParagonGideon/FX/Materials/Heroes/Gideon/Skins/Undertow/M_Undertow_Anchor"
+			]
+		}
+	]
+}

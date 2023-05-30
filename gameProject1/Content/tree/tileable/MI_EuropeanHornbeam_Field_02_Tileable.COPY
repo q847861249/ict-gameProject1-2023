@@ -1,0 +1,47 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_EuropeanHornbeam_Field_02_Tileable"
+   Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MI_EuropeanHornbeam_Field_02_TileableEditorOnlyData"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MI_EuropeanHornbeam_Field_02_TileableEditorOnlyData"
+      StaticParameters=(StaticSwitchParameters=((Value=True,ParameterInfo=(Name="DefaultLit Trunk"),bOverride=True,ExpressionGUID=C1D00C7A431FD4B368976CB278D31351),(Value=True,ParameterInfo=(Name="Advanced Controls"),bOverride=True,ExpressionGUID=FEA6A0F14892260B1665F4872905D68D),(ParameterInfo=(Name="Basic Controls"),bOverride=True,ExpressionGUID=BA32B60A49E4E3630BF77188D10E9D68),(Value=True,ParameterInfo=(Name="Tint BaseColor"),bOverride=True,ExpressionGUID=D93F0BE04A1EF7E6DC5299B34B43E2F8),(Value=True,ParameterInfo=(Name="use dithered Trunk Blend"),bOverride=True,ExpressionGUID=C84FAB2F46E9D5A72FDBCEA42AD9F1E6)))
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=8C78A4BB4BEB918DDC64569B441757EA
+   Parent=/Script/Engine.MaterialInstanceConstant'"/Game/EuropeanHornbeam/Materials/PivotPainter/Field/Field_02/MAI_EuropeanHornbeam_Field_02.MAI_EuropeanHornbeam_Field_02"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Specular"),ParameterValue=3.000000,ExpressionGUID=9B9057744DC20B5D5A7E82AD7B8D19DA)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Constant Roughness"),ParameterValue=0.850000,ExpressionGUID=95ED4F96497D32AD93450CA89A8A7172)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Roughness Contrast"),ParameterValue=1.200000,ExpressionGUID=0BDB6F954147D2B8B7CBB88AA7DA5D18)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Roughness Max"),ParameterValue=1.000000,ExpressionGUID=25EB03BC4106F29ADB42B8BD1EA137BF)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Roughness Min"),ParameterValue=0.300000,ExpressionGUID=426BFA9D45D9835ADB70FC89242AB081)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Roughness Strength"),ParameterValue=0.500000,ExpressionGUID=89A689634FFD52F0AACC9AA140905C58)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Normal Strength"),ParameterValue=1.300000,ExpressionGUID=4E75693342EFC54720846A95F9A3EE8C)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Bark Detail Amount"),ParameterValue=0.500000,ExpressionGUID=ABF021FC46CB474DB04C598F2B6CB550)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Branch Blending Strength"),ParameterValue=1.000000,ExpressionGUID=A3FFF96D4FC29EBF38FCEDA2B1FBCD81)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Albedo Controls"),ParameterValue=(R=0.900000,G=0.450000,B=1.000000,A=0.000000),ExpressionGUID=AD998C0A4E97922D877345968A41B664)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Albedo Tint"),ParameterValue=(R=0.930803,G=1.000000,B=0.769792,A=1.000000),ExpressionGUID=13547F5F41B06E13A2C19FA70FCB2514)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Albedo"),ParameterValue=/Script/Engine.Texture2D'"/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Albedo.T_EuropeanHornbeam_Tileable_Albedo"',ExpressionGUID=07223FBF41692712962CD1AF88E143D2)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Mask"),ParameterValue=/Script/Engine.Texture2D'"/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Mask.T_EuropeanHornbeam_Tileable_Mask"',ExpressionGUID=AF1317534D792AC1FAD1D4B0686B328D)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normal"),ParameterValue=/Script/Engine.Texture2D'"/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Normal.T_EuropeanHornbeam_Tileable_Normal"',ExpressionGUID=C2EE71CF492260CB7393F6A5B478ADA0)
+   BasePropertyOverrides=(bOverride_TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_FromMaterialExpression,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=654A779F46142F13B6D149820C967ACA
+   ReferencedTextureGuids(1)=1C3A77D447B616B86BF96A8F668946E1
+   ReferencedTextureGuids(2)=B519177A484472402349A1B9C0CCE09E
+   ReferencedTextureGuids(3)=307757E1458E615C7D97A39E32219707
+   ReferencedTextureGuids(4)=898A4CD34F2EC63B66F16DB8D31616A1
+   ReferencedTextureGuids(5)=3018C31540ACCDD2784D6CA7EA434A3C
+   ReferencedTextureGuids(6)=FA50424946452B7299913594FD0501F6
+   ReferencedTextureGuids(7)=0D42861D48B26592B1D3099E189CD4E2
+   EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"MI_EuropeanHornbeam_Field_02_TileableEditorOnlyData"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.997070,UVChannelIndex=0,TextureName="Good64x64TilingNoiseHighFreq",TextureReference="/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq")
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_EuropeanHornbeam_Field_02_PosParent",TextureReference="/Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_02_PosParent.T_EuropeanHornbeam_Field_02_PosParent")
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_EuropeanHornbeam_Tileable_Albedo",TextureReference="/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Albedo.T_EuropeanHornbeam_Tileable_Albedo")
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_EuropeanHornbeam_Tileable_Mask",TextureReference="/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Mask.T_EuropeanHornbeam_Tileable_Mask")
+   TextureStreamingData(4)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_EuropeanHornbeam_Tileable_Normal",TextureReference="/Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Normal.T_EuropeanHornbeam_Tileable_Normal")
+   ThumbnailInfo=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1B919ADB42701340EA61FCB4774A8B07
+End Object
