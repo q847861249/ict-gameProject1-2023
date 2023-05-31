@@ -3058,3 +3058,1203 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.31-11.32.11:708][341]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.31-11.32.11:708][341]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EcoA76/Character/BluePrint/EcoA76.EcoA76
 [2023.05.31-11.32.11:708][341]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/Map_BigStarStation.Map_BigStarStation
+[2023.05.31-11.38.05:314][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.31-11.38.05:346][  5]LogLinker: Warning: [AssetLog] F:\FUCK\ict-gameProject1-2023\gameProject1\Content\BigStarStation\Maps\Base.umap: Failed to load '/Game/BigStarStation/Maps/Base_BuiltData': Can't find file.
+[2023.05.31-11.38.05:346][  5]LogLinker: Warning: [AssetLog] F:\FUCK\ict-gameProject1-2023\gameProject1\Content\BigStarStation\Maps\Base.umap: VerifyImport: Failed to load package for import object 'Package /Game/BigStarStation/Maps/Base_BuiltData'
+[2023.05.31-11.38.05:381][  5]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BigStarStation/Maps/Base.Base
+[2023.05.31-11.38.05:381][  5]Cmd: MAP LOAD FILE="F:/FUCK/ict-gameProject1-2023/gameProject1/Content/BigStarStation/Maps/Base.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.31-11.38.05:381][  5]LightingResults: New page: Lighting Build
+[2023.05.31-11.38.05:381][  5]LoadErrors: New page: Loading map: Base.umap
+[2023.05.31-11.38.05:408][  5]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.38.05:409][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.38.05:409][  5]MapCheck: New page: Map Check
+[2023.05.31-11.38.05:409][  5]LightingResults: New page: Lighting Build
+[2023.05.31-11.38.05:459][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.38.05:482][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.31-11.38.05:498][  5]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.38.05:499][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.38.05:551][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.31-11.38.05:599][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.31-11.38.05:617][  5]LogAudio: Display: Audio Device (ID: 1) registered with world 'Base'.
+[2023.05.31-11.38.05:618][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.38.05:618][  5]LogAIModule: Creating AISystem for world Base
+[2023.05.31-11.38.05:638][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.31-11.38.05:691][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.31-11.38.05:710][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.31-11.38.05:711][  5]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2023.05.31-11.38.05:711][  5]LogFileHelpers: Loading map 'Base' took 0.329
+[2023.05.31-11.38.08:425][307]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BigStarStation/Maps/door/AC_Door_bedRoom.AC_Door_bedRoom
+[2023.05.31-11.38.08:426][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.38.55:538][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AutoDoor/BP_AutomaticDoor.BP_AutomaticDoor
+[2023.05.31-11.38.55:539][403]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.39.13:915][533]LogEditorTransaction: Undo Move Node
+[2023.05.31-11.39.14:008][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-11.39.14:015][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-11.39.31:397][469]LogEditorTransaction: Undo Create Pin Link
+[2023.05.31-11.39.31:486][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-11.39.31:491][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-11.39.40:076][412]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.39.40:160][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.31-11.39.41:613][577]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.39.41:624][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.39.41:625][577]PIE: New page: PIE session: Base (2023年6月1日 上午6:39:41)
+[2023.05.31-11.39.41:625][577]LogPlayLevel: Creating play world package: /Game/BigStarStation/Maps/UEDPIE_0_Base
+[2023.05.31-11.39.41:645][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020042s)
+[2023.05.31-11.39.41:645][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BigStarStation/Maps/Base.Base to /Game/BigStarStation/Maps/UEDPIE_0_Base.Base (0.020065s)
+[2023.05.31-11.39.41:645][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.39.41:645][577]LogAIModule: Creating AISystem for world Base
+[2023.05.31-11.39.41:646][577]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2023.05.31-11.39.41:699][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.31-11.39.41:701][577]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.39.41:701][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.39.41:701][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.39.41:702][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.39.41:702][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.39.41:702][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.39.41:703][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.39.41:733][577]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.39.41:733][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.39.41:733][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.39.41:733][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.39.41:733][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.05.31-11.39.41:733][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=22
+[2023.05.31-11.39.41:734][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.05.31-11.39.41:734][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.05.31-11.39.41:734][577]LogInit: FAudioDevice initialized.
+[2023.05.31-11.39.41:734][577]LogAudio: Display: Audio Device (ID: 22) registered with world 'Base'.
+[2023.05.31-11.39.41:736][577]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.39.41:743][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 12 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:743][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 12 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:744][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 8 sphere, 4 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:744][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 8 sphere, 4 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:744][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 12 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:744][577]LogChaosCloth: Warning: Actor 'npc_C_1' component 'SkeletalMesh' has 12 sphere, 6 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:746][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Actor 'shop_npc_C_1' component 'CharacterMesh0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.05.31-11.39.41:747][577]LogWorld: Bringing World /Game/BigStarStation/Maps/UEDPIE_0_Base.Base up for play (max tick rate 0) at 2023.05.31-21.09.41
+[2023.05.31-11.39.41:748][577]LogWorld: Bringing up level for play took: 0.011305
+[2023.05.31-11.39.41:749][577]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.05.31-11.39.41:755][577]PIE: Server logged in
+[2023.05.31-11.39.41:755][577]PIE: Play in editor total start time 0.131 seconds.
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: ================================================
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: Total job queries 291, among them cache hits 45 (15.46%)
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: Tracking 246 distinct input hashes that result in 193 distinct outputs (78.46%)
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: RAM used: 1.82 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.31-11.39.41:841][578]LogShaderCompilers: Display: ================================================
+[2023.05.31-11.39.44:662][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.39.44:662][691]LogWorld: BeginTearingDown for /Game/BigStarStation/Maps/UEDPIE_0_Base
+[2023.05.31-11.39.44:662][691]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.39.44:664][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.39.44:666][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.39.44:670][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.39.44:727][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.39.44:727][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.31-11.39.44:728][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.31-11.39.44:732][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.39.44:736][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.31-11.39.44:779][692]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.05.31-11.39.53:881][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.31-11.39.54:884][762]LogSlate: Window 'Save Content' being destroyed
+[2023.05.31-11.39.54:891][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-11.39.54:933][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AutoDoor/BP_AutomaticDoor" FILE="F:/FUCK/ict-gameProject1-2023/gameProject1/Content/AutoDoor/BP_AutomaticDoor.uasset" SILENT=true
+[2023.05.31-11.39.54:938][762]LogSavePackage: Moving output files for package: /Game/AutoDoor/BP_AutomaticDoor
+[2023.05.31-11.39.54:938][762]LogSavePackage: Moving 'F:/FUCK/ict-gameProject1-2023/gameProject1/Saved/BP_AutomaticDoor1F8B15A545C10F6A39087DAD5E8D239B.tmp' to 'F:/FUCK/ict-gameProject1-2023/gameProject1/Content/AutoDoor/BP_AutomaticDoor.uasset'
+[2023.05.31-11.39.54:944][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.79 sec)
+[2023.05.31-11.39.55:191][762]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level/Map_BigStarStation.Map_BigStarStation
+[2023.05.31-11.39.55:191][762]Cmd: MAP LOAD FILE="F:/FUCK/ict-gameProject1-2023/gameProject1/Content/level/Map_BigStarStation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.31-11.39.55:191][762]LightingResults: New page: Lighting Build
+[2023.05.31-11.39.55:191][762]LoadErrors: New page: Loading map: Map_BigStarStation.umap
+[2023.05.31-11.39.55:195][762]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.39.55:195][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.39.55:195][762]MapCheck: New page: Map Check
+[2023.05.31-11.39.55:195][762]LightingResults: New page: Lighting Build
+[2023.05.31-11.39.55:270][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.39.55:274][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.31-11.39.55:276][762]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.39.55:281][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.39.55:359][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.31-11.39.55:416][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.31-11.39.55:557][762]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.39.55:557][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.39.55:557][762]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.39.55:674][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.31-11.39.55:755][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.31-11.39.55:776][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.31-11.39.55:776][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2023.05.31-11.39.55:776][762]LogFileHelpers: Loading map 'Map_BigStarStation' took 0.585
+[2023.05.31-11.39.55:808][762]AssetCheck: New page: Asset Save: BP_AutomaticDoor
+[2023.05.31-11.39.55:808][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AutoDoor/BP_AutomaticDoor.BP_AutomaticDoor
+[2023.05.31-11.39.56:756][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.39.56:779][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.39.56:779][812]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:39:56)
+[2023.05.31-11.39.56:780][812]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.39.57:005][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223636s)
+[2023.05.31-11.39.57:005][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.223660s)
+[2023.05.31-11.39.57:005][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.39.57:005][812]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.39.57:006][812]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2023.05.31-11.39.57:066][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.31-11.39.57:068][812]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.39.57:068][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.39.57:068][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.39.57:068][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.39.57:068][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.39.57:068][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.39.57:069][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.39.57:111][812]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.39.57:112][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.39.57:112][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.39.57:112][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.39.57:112][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.05.31-11.39.57:112][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=23
+[2023.05.31-11.39.57:113][812]LogInit: FAudioDevice initialized.
+[2023.05.31-11.39.57:113][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.05.31-11.39.57:113][812]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.39.57:113][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.05.31-11.39.57:116][812]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.39.57:219][812]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.09.57
+[2023.05.31-11.39.57:227][812]LogWorld: Bringing up level for play took: 0.110766
+[2023.05.31-11.39.57:228][812]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.05.31-11.39.57:233][812]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.39.57:233][812]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.39.57:237][812]PIE: Server logged in
+[2023.05.31-11.39.57:237][812]PIE: Play in editor total start time 0.458 seconds.
+[2023.05.31-11.40.01:513][  6]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.01:551][  8]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.01:589][ 10]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.01:627][ 12]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.01:808][ 21]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.02:133][ 38]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.02:262][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:262][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:282][ 45]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:302][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:323][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:339][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:361][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:379][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:399][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:418][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:438][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:458][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:477][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:497][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:516][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:535][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:554][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:573][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:592][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:611][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:629][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:648][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:668][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:688][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:708][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:726][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.02:745][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.03:574][113]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.03:650][117]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.03:787][124]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.04:041][137]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.04:158][143]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.04:309][151]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (36 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.04:836][177]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (26 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.05:109][191]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.05:461][210]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.05:498][212]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.05:649][220]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.06:509][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:510][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:529][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:549][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:571][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:589][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:608][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:628][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:648][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:668][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:686][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:706][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:725][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:745][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:765][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:785][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:805][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:823][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:843][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:864][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:881][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:901][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:920][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:939][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:958][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:977][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:996][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.06:996][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_4". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.08:971][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.08:971][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.08:989][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:009][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:029][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:051][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:071][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:092][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:111][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:130][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:149][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:168][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:186][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:206][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:224][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:243][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:263][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:282][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:301][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:319][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:340][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:358][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:378][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:398][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:417][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:435][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.09:454][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.11:016][501]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.11:112][506]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.11:149][508]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.11:551][529]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.13:482][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.40.13:482][625]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.40.13:483][625]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.40.13:490][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.40.13:494][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.40.13:501][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.40.13:566][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.40.13:568][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.31-11.40.13:569][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.31-11.40.13:573][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.40.13:589][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.31-11.40.13:693][626]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.05.31-11.40.14:878][750]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.40.14:884][750]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.40.36:665][243]LogWindowsTextInputMethodSystem: Activated input method: 日语(日本) - (Keyboard).
+[2023.05.31-11.40.36:665][243]LogWindowsTextInputMethodSystem: Activated input method: 日语(日本) - 微软输入法 (TSF IME).
+[2023.05.31-11.40.41:302][774]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.40.41:392][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.31-11.40.42:848][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.40.42:864][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.40.42:864][934]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:40:42)
+[2023.05.31-11.40.42:864][934]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.40.43:061][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197363s)
+[2023.05.31-11.40.43:061][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.197384s)
+[2023.05.31-11.40.43:062][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.40.43:062][934]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.40.43:063][934]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2023.05.31-11.40.43:120][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.31-11.40.43:122][934]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.40.43:122][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.40.43:122][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.40.43:122][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.40.43:122][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.40.43:122][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.40.43:123][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.40.43:154][934]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.40.43:154][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.40.43:154][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.40.43:154][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.40.43:155][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.05.31-11.40.43:155][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=24
+[2023.05.31-11.40.43:156][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.05.31-11.40.43:156][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.05.31-11.40.43:156][934]LogInit: FAudioDevice initialized.
+[2023.05.31-11.40.43:156][934]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.40.43:158][934]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.40.43:233][934]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.10.43
+[2023.05.31-11.40.43:239][934]LogWorld: Bringing up level for play took: 0.081654
+[2023.05.31-11.40.43:241][934]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.31-11.40.43:245][934]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.40.43:245][934]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.40.43:248][934]PIE: Server logged in
+[2023.05.31-11.40.43:248][934]PIE: Play in editor total start time 0.385 seconds.
+[2023.05.31-11.40.46:886][108]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.46:924][110]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.46:962][112]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.46:999][114]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.47:169][123]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.47:301][130]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.47:500][140]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.47:636][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:636][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:656][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:675][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:694][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:713][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:733][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:752][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:773][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:793][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:812][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:831][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:851][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:869][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:889][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:908][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:928][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:946][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:965][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.47:985][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:005][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:023][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:042][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:061][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:079][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:099][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:118][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.48:365][185]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.48:472][191]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.48:511][193]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.48:724][204]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.48:839][210]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.48:993][218]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (41 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.49:411][239]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.49:638][250]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (17 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.49:862][262]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.49:937][266]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.49:963][267]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.51:179][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:179][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:199][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:218][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:238][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:259][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:278][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:297][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:317][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:337][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:358][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:376][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:396][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:415][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:434][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:453][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:473][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:492][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:511][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:531][349]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:549][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:568][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:588][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:607][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:626][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:645][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:665][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.51:665][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_4". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.40.53:793][467]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.53:831][469]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.54:791][520]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.55:183][541]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.40.57:922][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.40.57:922][683]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.40.57:923][683]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.40.57:931][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.40.57:936][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.40.57:943][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.40.58:003][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.40.58:012][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.05.31-11.40.58:013][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.05.31-11.40.58:017][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.40.58:033][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.31-11.40.58:124][684]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.31-11.41.00:602][964]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.41.00:607][964]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.41.08:014][602]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.41.08:099][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.31-11.41.10:833][915]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.41.10:845][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.41.10:845][915]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:41:10)
+[2023.05.31-11.41.10:845][915]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.41.11:042][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196749s)
+[2023.05.31-11.41.11:042][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.196771s)
+[2023.05.31-11.41.11:042][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.41.11:043][915]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.41.11:044][915]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2023.05.31-11.41.11:101][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.31-11.41.11:103][915]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.41.11:103][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.41.11:103][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.41.11:103][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.41.11:103][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.41.11:103][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.41.11:104][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.41.11:133][915]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.41.11:133][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.41.11:133][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.41.11:133][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.41.11:134][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.05.31-11.41.11:134][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=25
+[2023.05.31-11.41.11:135][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.05.31-11.41.11:135][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.05.31-11.41.11:135][915]LogInit: FAudioDevice initialized.
+[2023.05.31-11.41.11:135][915]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.41.11:138][915]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.41.11:199][915]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.11.11
+[2023.05.31-11.41.11:206][915]LogWorld: Bringing up level for play took: 0.068743
+[2023.05.31-11.41.11:208][915]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.05.31-11.41.11:213][915]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.41.11:213][915]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.41.11:215][915]PIE: Server logged in
+[2023.05.31-11.41.11:215][915]PIE: Play in editor total start time 0.37 seconds.
+[2023.05.31-11.41.12:972][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.41.12:972][973]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.41.12:973][973]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.41.12:980][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.41.12:995][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.41.13:002][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.41.13:063][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.41.13:063][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.05.31-11.41.13:064][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.05.31-11.41.13:068][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.41.13:087][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.31-11.41.13:133][974]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.05.31-11.41.16:684][168]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.31-11.41.17:612][267]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.41.17:625][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.41.17:625][267]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:41:17)
+[2023.05.31-11.41.17:625][267]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.41.17:823][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197196s)
+[2023.05.31-11.41.17:823][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.197218s)
+[2023.05.31-11.41.17:823][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.41.17:823][267]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.41.17:824][267]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2023.05.31-11.41.17:881][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.31-11.41.17:884][267]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.41.17:884][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.41.17:884][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.41.17:884][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.41.17:884][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.41.17:884][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.41.17:885][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.41.17:915][267]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.41.17:915][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.41.17:915][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.41.17:915][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.41.17:916][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.05.31-11.41.17:916][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=26
+[2023.05.31-11.41.17:917][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.05.31-11.41.17:917][267]LogInit: FAudioDevice initialized.
+[2023.05.31-11.41.17:917][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.05.31-11.41.17:917][267]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.41.17:919][267]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.41.17:983][267]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.11.17
+[2023.05.31-11.41.17:990][267]LogWorld: Bringing up level for play took: 0.070718
+[2023.05.31-11.41.17:992][267]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.05.31-11.41.18:002][267]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.41.18:002][267]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.41.18:005][267]PIE: Server logged in
+[2023.05.31-11.41.18:005][267]PIE: Play in editor total start time 0.381 seconds.
+[2023.05.31-11.41.19:093][306]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.19:910][345]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.21:472][424]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.21:581][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:581][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:603][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:623][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:643][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:665][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:685][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:705][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:726][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:745][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:765][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:785][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:804][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:824][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:842][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:862][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:883][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:902][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:922][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:943][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:962][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.21:980][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.22:001][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.22:022][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.22:040][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.22:060][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.22:080][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.23:276][515]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.24:230][565]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.24:335][570]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.24:544][581]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.28:939][804]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.29:483][832]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.29:842][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:843][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:862][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:882][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:901][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:921][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:941][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:962][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.29:981][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:001][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:022][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:041][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:061][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:079][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:099][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:118][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:137][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:156][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:176][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:195][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:214][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:233][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:252][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:272][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:290][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:310][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:329][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.30:329][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_4". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.31:382][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.41.31:382][928]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.41.31:383][928]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.41.31:391][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.41.31:396][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.41.31:403][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.41.31:471][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.41.31:471][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.05.31-11.41.31:472][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.05.31-11.41.31:475][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.41.31:493][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.31-11.41.31:595][929]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.05.31-11.41.35:234][307]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.41.35:239][307]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.41.50:727][964]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.41.50:820][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.31-11.41.52:837][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.41.52:849][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.41.52:849][188]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:41:52)
+[2023.05.31-11.41.52:849][188]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.41.53:049][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200513s)
+[2023.05.31-11.41.53:049][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.200552s)
+[2023.05.31-11.41.53:050][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.41.53:050][188]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.41.53:051][188]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2023.05.31-11.41.53:109][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.31-11.41.53:111][188]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.41.53:111][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.41.53:111][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.41.53:111][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.41.53:111][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.41.53:111][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.41.53:113][188]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.41.53:142][188]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.41.53:142][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.41.53:142][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.41.53:142][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.41.53:142][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.05.31-11.41.53:142][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=27
+[2023.05.31-11.41.53:144][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.05.31-11.41.53:144][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.05.31-11.41.53:144][188]LogInit: FAudioDevice initialized.
+[2023.05.31-11.41.53:144][188]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.41.53:146][188]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.41.53:208][188]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.11.53
+[2023.05.31-11.41.53:216][188]LogWorld: Bringing up level for play took: 0.069599
+[2023.05.31-11.41.53:217][188]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.05.31-11.41.53:221][188]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.41.53:222][188]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.41.53:224][188]PIE: Server logged in
+[2023.05.31-11.41.53:225][188]PIE: Play in editor total start time 0.376 seconds.
+[2023.05.31-11.41.54:535][218]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.55:282][253]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.56:538][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:538][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:560][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:581][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:604][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:623][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:644][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:664][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:683][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:703][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:722][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:742][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:762][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:781][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:800][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:820][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:839][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:859][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:879][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:898][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:917][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:936][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:956][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:976][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.56:994][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.57:013][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.57:033][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.41.58:062][394]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.41.58:924][437]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.00:545][519]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.00:673][525]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.02:022][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.42.02:022][591]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.42.02:023][591]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.42.02:031][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.42.02:035][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.42.02:041][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.42.02:097][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.42.02:099][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.31-11.42.02:100][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.31-11.42.02:126][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.31-11.42.02:226][592]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.05.31-11.42.08:973][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Transparent_Material/NewBlueprint.NewBlueprint
+[2023.05.31-11.42.08:974][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.42.16:347][ 56]BlueprintLog: New page: Compile NewBlueprint
+[2023.05.31-11.42.16:440][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.31-11.42.18:230][239]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.42.18:234][239]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.42.18:864][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.42.18:877][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.42.18:877][314]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:42:18)
+[2023.05.31-11.42.18:877][314]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.42.19:074][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197518s)
+[2023.05.31-11.42.19:074][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.197543s)
+[2023.05.31-11.42.19:074][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.42.19:075][314]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.42.19:076][314]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2023.05.31-11.42.19:135][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.31-11.42.19:136][314]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.42.19:136][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.42.19:136][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.42.19:137][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.42.19:137][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.42.19:137][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.42.19:138][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.42.19:171][314]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.42.19:171][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.42.19:171][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.42.19:171][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.42.19:171][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.05.31-11.42.19:171][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=28
+[2023.05.31-11.42.19:173][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.05.31-11.42.19:173][314]LogInit: FAudioDevice initialized.
+[2023.05.31-11.42.19:173][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.05.31-11.42.19:173][314]LogAudio: Display: Audio Device (ID: 28) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.42.19:175][314]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.42.19:295][314]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.12.19
+[2023.05.31-11.42.19:301][314]LogWorld: Bringing up level for play took: 0.126490
+[2023.05.31-11.42.19:304][314]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.05.31-11.42.19:308][314]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.42.19:308][314]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.42.19:311][314]PIE: Server logged in
+[2023.05.31-11.42.19:311][314]PIE: Play in editor total start time 0.435 seconds.
+[2023.05.31-11.42.20:570][360]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.21:298][396]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.21:337][398]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.24:951][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.24:952][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.24:971][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.24:990][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:013][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:034][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:055][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:074][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:095][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:115][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:135][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:154][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:174][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:194][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:213][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:233][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:253][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:274][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:294][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:313][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:334][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:354][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:373][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:394][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:414][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:435][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.25:642][616]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.26:302][649]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.28:352][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.42.28:352][755]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.42.28:353][755]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.42.28:360][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.42.28:364][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.42.28:371][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.42.28:434][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.42.28:438][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.31-11.42.28:439][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.31-11.42.28:458][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.31-11.42.28:551][756]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.05.31-11.42.29:595][862]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.42.29:601][862]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.42.55:126][661]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.42.55:216][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.31-11.42.56:577][808]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.42.56:589][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.42.56:589][808]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:42:56)
+[2023.05.31-11.42.56:589][808]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.42.56:785][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196240s)
+[2023.05.31-11.42.56:785][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.196265s)
+[2023.05.31-11.42.56:785][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.42.56:786][808]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.42.56:786][808]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2023.05.31-11.42.56:844][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.31-11.42.56:845][808]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.42.56:845][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.42.56:845][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.42.56:846][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.42.56:846][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.42.56:846][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.42.56:847][808]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.42.56:876][808]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.42.56:876][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.42.56:876][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.42.56:876][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.42.56:877][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.05.31-11.42.56:877][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=29
+[2023.05.31-11.42.56:878][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.05.31-11.42.56:878][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.05.31-11.42.56:878][808]LogInit: FAudioDevice initialized.
+[2023.05.31-11.42.56:878][808]LogAudio: Display: Audio Device (ID: 29) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.42.56:881][808]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.42.56:939][808]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.12.56
+[2023.05.31-11.42.56:946][808]LogWorld: Bringing up level for play took: 0.065477
+[2023.05.31-11.42.56:948][808]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.05.31-11.42.56:951][808]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.42.56:951][808]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.42.56:954][808]PIE: Server logged in
+[2023.05.31-11.42.56:955][808]PIE: Play in editor total start time 0.366 seconds.
+[2023.05.31-11.42.57:759][834]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.58:460][867]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.58:668][877]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.42.58:677][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:677][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:697][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:717][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:736][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:759][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:780][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:801][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:822][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:843][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:862][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:882][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:901][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:922][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:942][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:961][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.58:981][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:002][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:022][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:041][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:061][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:080][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:099][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:119][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:139][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.42.59:158][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.00:083][948]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.00:301][959]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (24 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.00:359][962]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.01:059][996]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.02:593][ 76]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.02:796][ 86]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.03:332][114]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.03:860][142]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.03:992][149]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.04:125][156]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.04:598][181]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.04:638][183]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.04:986][201]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.05:224][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:225][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:243][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:263][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:283][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:303][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:322][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:342][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:359][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:379][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:399][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:417][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:437][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:456][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:476][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:494][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:514][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:533][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:552][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:572][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:592][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:613][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:631][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:651][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:670][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:679][237]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.05:689][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:709][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.05:709][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_4". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.06:101][259]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.08:392][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.43.08:392][380]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.43.08:393][380]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.43.08:400][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.43.08:409][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.43.08:416][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.43.08:478][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.43.08:482][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.31-11.43.08:483][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.31-11.43.08:504][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.31-11.43.08:597][381]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.05.31-11.43.09:698][493]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.43.09:703][493]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.43.22:819][880]BlueprintLog: New page: Compile BP_AutomaticDoor
+[2023.05.31-11.43.22:905][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.31-11.43.24:731][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-11.43.24:743][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-11.43.24:743][ 80]PIE: New page: PIE session: Map_BigStarStation (2023年6月1日 上午6:43:24)
+[2023.05.31-11.43.24:743][ 80]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.43.24:943][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.199427s)
+[2023.05.31-11.43.24:943][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Map_BigStarStation.Map_BigStarStation to /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation (0.199449s)
+[2023.05.31-11.43.24:943][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-11.43.24:943][ 80]LogAIModule: Creating AISystem for world Map_BigStarStation
+[2023.05.31-11.43.24:944][ 80]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2023.05.31-11.43.25:006][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.31-11.43.25:007][ 80]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-11.43.25:007][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-11.43.25:007][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-11.43.25:008][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-11.43.25:008][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-11.43.25:008][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-11.43.25:009][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (GameDAC Game)
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.05.31-11.43.25:038][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=30
+[2023.05.31-11.43.25:039][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.05.31-11.43.25:039][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.05.31-11.43.25:039][ 80]LogInit: FAudioDevice initialized.
+[2023.05.31-11.43.25:039][ 80]LogAudio: Display: Audio Device (ID: 30) registered with world 'Map_BigStarStation'.
+[2023.05.31-11.43.25:042][ 80]LogLoad: Game class is 'EcoA76_gameModeBase_C'
+[2023.05.31-11.43.25:101][ 80]LogWorld: Bringing World /Game/level/UEDPIE_0_Map_BigStarStation.Map_BigStarStation up for play (max tick rate 0) at 2023.05.31-21.13.25
+[2023.05.31-11.43.25:108][ 80]LogWorld: Bringing up level for play took: 0.066249
+[2023.05.31-11.43.25:109][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.05.31-11.43.25:113][ 80]Cmd: r.Streaming.PoolSize 7500
+[2023.05.31-11.43.25:113][ 80]r.Streaming.PoolSize = "7500"
+[2023.05.31-11.43.25:116][ 80]PIE: Server logged in
+[2023.05.31-11.43.25:116][ 80]PIE: Play in editor total start time 0.373 seconds.
+[2023.05.31-11.43.26:006][111]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.26:712][144]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.26:932][155]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.26:941][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.26:941][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.26:961][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.26:981][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:005][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:027][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:047][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:068][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:089][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:109][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:129][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:149][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:169][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:189][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:210][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:231][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:251][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:271][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:290][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:309][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:329][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:349][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:369][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:388][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:408][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:427][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:824][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:824][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:843][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:863][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:883][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:902][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:922][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:942][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:961][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.27:981][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:000][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:020][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:039][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:059][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:079][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:098][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:118][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:138][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:159][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:182][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:203][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:223][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:241][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:261][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:279][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:299][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:319][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:319][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_4". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph New Blueprint Blueprint:  NewBlueprint
+[2023.05.31-11.43.28:570][237]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.29:838][302]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.05.31-11.43.33:422][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.43.33:422][489]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_Map_BigStarStation
+[2023.05.31-11.43.33:423][489]LogWorld: UWorld::CleanupWorld for Map_BigStarStation, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-11.43.33:431][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.43.33:435][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-11.43.33:442][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-11.43.33:499][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-11.43.33:500][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.05.31-11.43.33:502][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.05.31-11.43.33:506][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-11.43.33:529][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.31-11.43.33:631][490]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.05.31-11.43.34:847][615]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.43.34:851][615]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-11.43.36:362][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.31-11.43.36:366][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-11.43.36:391][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/Map_BigStarStation" FILE="F:/FUCK/ict-gameProject1-2023/gameProject1/Content/level/Map_BigStarStation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-11.43.36:451][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.31-11.43.36:968][780]LogSavePackage: Moving output files for package: /Game/level/Map_BigStarStation
+[2023.05.31-11.43.36:969][780]LogSavePackage: Moving 'F:/FUCK/ict-gameProject1-2023/gameProject1/Saved/Map_BigStarStationEAD9DB384E328B7C0C7B42A6CD36496A.tmp' to 'F:/FUCK/ict-gameProject1-2023/gameProject1/Content/level/Map_BigStarStation.umap'
+[2023.05.31-11.43.36:997][780]LogFileHelpers: Saving map 'Map_BigStarStation' took 0.608
+[2023.05.31-11.43.37:021][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AutoDoor/BP_AutomaticDoor" FILE="F:/FUCK/ict-gameProject1-2023/gameProject1/Content/AutoDoor/BP_AutomaticDoor.uasset" SILENT=true
+[2023.05.31-11.43.37:027][780]LogSavePackage: Moving output files for package: /Game/AutoDoor/BP_AutomaticDoor
+[2023.05.31-11.43.37:027][780]LogSavePackage: Moving 'F:/FUCK/ict-gameProject1-2023/gameProject1/Saved/BP_AutomaticDoorCC02D80544B05A6DDAEE0CB4D9B01D89.tmp' to 'F:/FUCK/ict-gameProject1-2023/gameProject1/Content/AutoDoor/BP_AutomaticDoor.uasset'
+[2023.05.31-11.43.37:035][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 669 ms (total: 2.46 sec)
+[2023.05.31-11.43.37:042][780]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.31-11.43.37:042][780]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AutoDoor/BP_AutomaticDoor.BP_AutomaticDoor
+[2023.05.31-11.43.37:042][780]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/Map_BigStarStation.Map_BigStarStation
